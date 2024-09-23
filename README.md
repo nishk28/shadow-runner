@@ -103,7 +103,7 @@ $(document).ready(function () {
 ### Commands to Run the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shadow-runner-game.git
+   git clone https://github.com/nishk28/shadow-runner.git
    cd shadow-runner-game
    ```
 
