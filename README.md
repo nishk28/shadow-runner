@@ -104,7 +104,7 @@ $(document).ready(function () {
 1. Clone the repository:
    ```bash
    git clone https://github.com/nishk28/shadow-runner.git
-   cd shadow-runner-game
+   cd shadow-runner
    ```
 
 2. Install the dependencies:
